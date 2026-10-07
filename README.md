@@ -8,7 +8,7 @@ An interactive apology page with a playful forgiveness flow.
 
 ## Overview
 
-Truce is a small interactive web project designed around a simple apology and forgiveness interaction.
+Truce is a small interactive web project built around a simple apology and forgiveness interaction.
 
 The page presents an apology with two possible responses. Choosing to forgive changes the page into a positive success state, while the alternative response uses a playful interaction to encourage the user to reconsider.
 
@@ -38,3 +38,24 @@ Clone the repository:
 ```bash
 git clone https://github.com/mdhzarif03/truce.git
 cd truce
+```
+Open index.html in a browser.
+
+No build tools or external dependencies are required.
+
+Project Structure
+```bash
+truce/
+├── index.html
+├── script.js
+├── style.css
+└── README.md
+```
+
+**Status:**
+Released as version 1.0.1.
+
+**Author:**
+Muhammad Hasan Zarif
+
+**GitHub:** @mdhzarif03
